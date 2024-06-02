@@ -30,6 +30,9 @@ The dataset used is a robust compilation from multiple sources, consisting of ov
 ![Dataset](https://github.com/Tanishq251/A-Deep-Learning-Based-Plant-Analysis-for-Ayurvedic-Application/assets/104064377/cf3f54b4-16cf-41f2-a9ef-93864b5e5dca)
 
 
+-[Training Data](https://drive.google.com/drive/folders/1XMSUxYfGTmbhDJS-mS2RizxQxFReQOH8?usp=drive_link)
+-[Testing Data](https://drive.google.com/drive/folders/1V0QqESerk0qDFah9HPHiGe1Cyb-gNTgW?usp=drive_link)
+
 ## Methodology
 ### CNN Architecture
 The Convolutional Neural Network (CNN) model used in this project is a sequential architecture composed of several layers designed to learn hierarchical features from the input images. The architecture includes multiple convolutional layers, max pooling layers, dropout layers to prevent overfitting, and dense layers for classification. The CNN model achieved a baseline accuracy of 68%.
